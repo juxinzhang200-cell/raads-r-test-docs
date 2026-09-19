@@ -1,0 +1,6 @@
+site_name: RAADS-R Test Insights
+site_description: Educational guidance for adults exploring autistic traits
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
